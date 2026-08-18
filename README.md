@@ -58,7 +58,7 @@ Heart Disease Feature Importance/
 ### Installation
 
 ```bash
-git clone https://github.com/KomailED<your-username>/heart-disease-feature-importance.git
+git clone https://github.com/KomailED/heart-disease-feature-importance.git
 cd heart-disease-feature-importance
 python -m venv venv
 source venv/bin/activate      # on Windows: venv\Scripts\activate
